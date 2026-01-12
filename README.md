@@ -1,4 +1,5 @@
 # Fraud-detection
+<<<<<<< HEAD
 ## Overview
 
 This project focuses on building a machine learning model to detect fraudulent financial transactions
@@ -154,3 +155,5 @@ The model successfully learns meaningful fraud patterns
 It can distinguish between normal and suspicious transactions
 
 Demonstrates a practical and industry-relevant fraud detection pipeline
+=======
+>>>>>>> a01e9d1560ce6faae731d48ddec265bd0bab153c
